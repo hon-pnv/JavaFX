@@ -3,7 +3,7 @@
 # Yêu cầu 1.b<br>
 ![](https://github.com/hon-pnv/JavaFX/blob/main/ProjectJavaFX/Image/Image1b.PNG)
 # Yêu cầu 1.c<br>
-![](https://drive.google.com/drive/folders/1FM1I_kEo58co-JbyWOwTsBE8aTAs4jv0?usp=sharing)
+https://drive.google.com/drive/folders/1FM1I_kEo58co-JbyWOwTsBE8aTAs4jv0?usp=sharing
 # Yêu cầu 1.d<br>
 - Các chức năng đã làm được:
 + Kết nối với dâtbase
